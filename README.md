@@ -32,4 +32,3 @@ Throughout the course, I worked on various programming exercises that covered es
 ## **Conclusion**
 
 This Intro to Programming course provided me with a strong foundation in Python and helped me develop the problem-solving skills needed for more advanced programming tasks. The hands-on experience of completing a wide range of small tasks and projects allowed me to build confidence in my coding abilities, and I am now ready to take on more complex programming challenges in future courses and projects.
-# Python
